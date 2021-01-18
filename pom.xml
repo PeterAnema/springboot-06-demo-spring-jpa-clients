@@ -10,7 +10,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>nl.gettoworktogether</groupId>
-	<artifactId>demo_spring_jpa</artifactId>
+	<artifactId>spring_data_jpa_clients</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>demo_spring_jpa</name>
 	<description>Demo project for Spring Boot JPA</description>

@@ -6,16 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="demo_spring_jpa" />
+        <module name="spring_data_jpa_clients" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="demo_spring_jpa" target="11" />
+      <module name="spring_data_jpa_clients" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="demo_spring_jpa" options="-parameters" />
+      <module name="spring_data_jpa_clients" options="-parameters" />
     </option>
   </component>
 </project>
